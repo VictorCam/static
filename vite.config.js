@@ -25,7 +25,7 @@ const config = {
 			plugins: [postcssPresetEnv({stage: 2})]
 		}
 	},
-	server: { 
+	server: {
 		port: 2020,
 	}
 };
